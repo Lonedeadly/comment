@@ -1,0 +1,10 @@
+body {
+	background: #fff;
+}
+.addcomment {
+	border: solid 1px #000;
+	padding: 10px;
+}
+.addcomment > textarea {
+	width: 100%;
+}
